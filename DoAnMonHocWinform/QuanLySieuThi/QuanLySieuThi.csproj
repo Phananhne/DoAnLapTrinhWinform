@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{20516F5B-3EDC-47B0-B026-60547DB18E4C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLySieuThi</RootNamespace>
+    <AssemblyName>QuanLySieuThi</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="button0.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CHUCNANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CHUCNANG.Designer.cs">
+      <DependentUpon>CHUCNANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CTHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CTHD.Designer.cs">
+      <DependentUpon>CTHD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CTNH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CTNH.Designer.cs">
+      <DependentUpon>CTNH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HANGHOA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HANGHOA.Designer.cs">
+      <DependentUpon>HANGHOA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOADON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOADON.Designer.cs">
+      <DependentUpon>HOADON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KIEMKE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KIEMKE.Designer.cs">
+      <DependentUpon>KIEMKE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Account.cs" />
+    <Compile Include="Models\ChiTietHoaDon.cs" />
+    <Compile Include="Models\ChiTietPhieuNhap.cs" />
+    <Compile Include="Models\ChucVu.cs" />
+    <Compile Include="Models\HangHoa.cs" />
+    <Compile Include="Models\HoaDon.cs" />
+    <Compile Include="Models\NhaCungCap.cs" />
+    <Compile Include="Models\NhanVien.cs" />
+    <Compile Include="Models\PhieuKiemKe.cs" />
+    <Compile Include="Models\PhieuNhap.cs" />
+    <Compile Include="Models\PhieuXuat.cs" />
+    <Compile Include="Models\SieuthiContextDB.cs" />
+    <Compile Include="NHACUNGCAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NHACUNGCAP.Designer.cs">
+      <DependentUpon>NHACUNGCAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NHANVIEN.Designer.cs">
+      <DependentUpon>NHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NHAPHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NHAPHANG.Designer.cs">
+      <DependentUpon>NHAPHANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TAIKHOAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TAIKHOAN.Designer.cs">
+      <DependentUpon>TAIKHOAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XUATHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XUATHANG.Designer.cs">
+      <DependentUpon>XUATHANG.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CHUCNANG.resx">
+      <DependentUpon>CHUCNANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CTHD.resx">
+      <DependentUpon>CTHD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CTNH.resx">
+      <DependentUpon>CTNH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HANGHOA.resx">
+      <DependentUpon>HANGHOA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOADON.resx">
+      <DependentUpon>HOADON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KIEMKE.resx">
+      <DependentUpon>KIEMKE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NHACUNGCAP.resx">
+      <DependentUpon>NHACUNGCAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NHANVIEN.resx">
+      <DependentUpon>NHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NHAPHANG.resx">
+      <DependentUpon>NHAPHANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TAIKHOAN.resx">
+      <DependentUpon>TAIKHOAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XUATHANG.resx">
+      <DependentUpon>XUATHANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3c4d8cea83023c9cf31fb083e49d4ec0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749036721571_507bd97faa53540115fd48d19e368710.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\noun_profile_956157.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2015_Edeka_Patschull_Darmstadt_GOLZ3009.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frewville-Foodland-10215400.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749036721571_507bd97faa53540115fd48d19e3687101.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749276896437_b1af42559f50fbffcc2ecf9b6fcb38e0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749334893128_f38b6f7ca47f27381e0efc241dfa1670.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PCC-Edmonds-DSC_7333-HDR1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749336767361_caacf940de35e6e4e5d46aafd8b3da082.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749339594072_840ea59b469f9990c4eee707b8298f7a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749338716857_314c8e61e6df298fc90ddb81ac525b22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wp3152292.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749342510936_a8f58c27b71c08a76073fe7771693ccf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3756782194267_9d7c53cc8c221adab5ecea886281c57a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\korea_supermarket_PML6544.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749348317778_b50760d5dda85b40816da325ae205467.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749350732204_f4da31561bf72e0f1dd9fc0cb104c0d4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wp3152338.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749345061403_c576d57c9fbb28e6e3672f130c83bd62.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749345061403_c576d57c9fbb28e6e3672f130c83bd621.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wp3152222.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749358122862_8eff713b154f89576630d0a896812ed3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %281%29.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3749334893128_f38b6f7ca47f27381e0efc241dfa16701.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimal-Wallpaper-HD-for-Phone-052.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z3770207997100_8b6d4f72302f80f0b473b467ad810908.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

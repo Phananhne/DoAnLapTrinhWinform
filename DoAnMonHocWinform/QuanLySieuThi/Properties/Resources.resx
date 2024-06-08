@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="3c4d8cea83023c9cf31fb083e49d4ec0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3c4d8cea83023c9cf31fb083e49d4ec0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749036721571_507bd97faa53540115fd48d19e3687101" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749036721571_507bd97faa53540115fd48d19e3687101.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749336767361_caacf940de35e6e4e5d46aafd8b3da082" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749336767361_caacf940de35e6e4e5d46aafd8b3da082.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749334893128_f38b6f7ca47f27381e0efc241dfa16701" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749334893128_f38b6f7ca47f27381e0efc241dfa16701.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frewville-Foodland-10215400" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frewville-Foodland-10215400.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749348317778_b50760d5dda85b40816da325ae205467" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749348317778_b50760d5dda85b40816da325ae205467.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749036721571_507bd97faa53540115fd48d19e368710" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749036721571_507bd97faa53540115fd48d19e368710.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PCC-Edmonds-DSC_7333-HDR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PCC-Edmonds-DSC_7333-HDR.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749336767361_caacf940de35e6e4e5d46aafd8b3da08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749336767361_caacf940de35e6e4e5d46aafd8b3da08.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PCC-Edmonds-DSC_7333-HDR1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PCC-Edmonds-DSC_7333-HDR1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749338716857_314c8e61e6df298fc90ddb81ac525b22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749338716857_314c8e61e6df298fc90ddb81ac525b22.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749350732204_f4da31561bf72e0f1dd9fc0cb104c0d4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749350732204_f4da31561bf72e0f1dd9fc0cb104c0d4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (1).jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749345061403_c576d57c9fbb28e6e3672f130c83bd621" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749345061403_c576d57c9fbb28e6e3672f130c83bd621.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wp3152222" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wp3152222.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749276896437_b1af42559f50fbffcc2ecf9b6fcb38e0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749276896437_b1af42559f50fbffcc2ecf9b6fcb38e0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="korea_supermarket_PML6544" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\korea_supermarket_PML6544.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749336767361_caacf940de35e6e4e5d46aafd8b3da081" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749336767361_caacf940de35e6e4e5d46aafd8b3da081.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wp3152338" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wp3152338.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wp3152292" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wp3152292.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749345061403_c576d57c9fbb28e6e3672f130c83bd62" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749345061403_c576d57c9fbb28e6e3672f130c83bd62.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749334893128_f38b6f7ca47f27381e0efc241dfa1670" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749334893128_f38b6f7ca47f27381e0efc241dfa1670.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Minimal-Wallpaper-HD-for-Phone-052" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Minimal-Wallpaper-HD-for-Phone-052.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="noun_profile_956157" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\noun_profile_956157.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3756782194267_9d7c53cc8c221adab5ecea886281c57a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3756782194267_9d7c53cc8c221adab5ecea886281c57a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2015_Edeka_Patschull_Darmstadt_GOLZ3009" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2015_Edeka_Patschull_Darmstadt_GOLZ3009.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749358122862_8eff713b154f89576630d0a896812ed3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749358122862_8eff713b154f89576630d0a896812ed3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749342510936_a8f58c27b71c08a76073fe7771693ccf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749342510936_a8f58c27b71c08a76073fe7771693ccf.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3749339594072_840ea59b469f9990c4eee707b8298f7a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3749339594072_840ea59b469f9990c4eee707b8298f7a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z3770207997100_8b6d4f72302f80f0b473b467ad810908" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3770207997100_8b6d4f72302f80f0b473b467ad810908.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

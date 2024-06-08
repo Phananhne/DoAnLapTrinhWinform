@@ -1,0 +1,81 @@
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.AssemblyReference.cache
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.Properties.Resources.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.GenerateResource.cache
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.CHUCNANG.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.LOGIN.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.NHAPHANG.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.XUATHANG.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.KIEMKE.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.NHACUNGCAP.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.HANGHOA.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.NHANVIEN.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.HOADON.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.CTHD.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.CTNH.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.dll
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.xml
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CrisM\OneDrive\Documents\LT window\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CopyComplete
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.AssemblyReference.cache
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.dll
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.xml
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.CHUCNANG.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.CTHD.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.CTNH.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.HANGHOA.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.HOADON.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.KIEMKE.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.LOGIN.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.NHACUNGCAP.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.NHANVIEN.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.NHAPHANG.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.Properties.Resources.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.XUATHANG.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.GenerateResource.cache
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CopyComplete
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.TAIKHOAN.resources
+C:\Users\CrisM\OneDrive\Documents\LT window\Đồ Án Môn Học (Complete 80_)\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.THONGTIN.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.dll
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.xml
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.CHUCNANG.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.CTHD.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.CTNH.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.HANGHOA.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.HOADON.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.KIEMKE.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.LOGIN.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.NHACUNGCAP.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.NHANVIEN.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.NHAPHANG.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.Properties.Resources.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.TAIKHOAN.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.XUATHANG.resources
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CopyComplete
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+C:\Users\HP\Downloads\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1-20221021T020002Z-001\LTWD-Nhom3-QuanLyHoatDongSieuThi-20DTHB1\DoAnMonHocWinform\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
